@@ -1,4 +1,5 @@
-<h1 align = "center"> Estudos Front-end
+<h1 align = "center"> Estudos Front-end 
+</h1>
  
 Estudos de front end  utilizando:
  - Css;
